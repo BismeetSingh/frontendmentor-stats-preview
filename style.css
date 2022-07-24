@@ -87,6 +87,7 @@ p {
     flex-direction: column;
     display: flex;
     max-width: 50%;
+    align-items: center;
   }
   .header {
     min-width: 50%;
@@ -101,7 +102,7 @@ p {
     border-top-left-radius: 0px;
   }
   h1, h1 > span {
-    text-align: start;
+    text-align: center;
     font-size: 2.2rem;
   }
   h1 > span {
